@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Naresh7093
-- 👀 I’m interested in fullstack developer.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m Naresh Tallapaka
+- 👀 I’m interested in Fullstack developer & Data Analyst.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on learning programming.
 - 📫 How to reach me on Linked in www.linkedin.com/in/naresh-tallapaka
 
