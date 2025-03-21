@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naresh Tallapaka
-- 👀 I’m interested in Data Science, Data analysis and Fullstack Development.
+- 👀 I’m interested in Fullstack Development.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on learning programming.
 - 📫 How to reach me on Linked in www.linkedin.com/in/naresh-tallapaka
